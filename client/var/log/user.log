@@ -1,0 +1,139 @@
+Sep 22 04:06:17 raspberrypi udisksd[277]: udisks daemon version 2.9.2 starting
+Sep 22 04:06:18 raspberrypi udisksd[277]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Sep 22 04:06:18 raspberrypi mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Sep 22 04:06:18 raspberrypi udisksd[277]: Failed to load the 'mdraid' libblockdev plugin
+Sep 22 04:06:19 raspberrypi udisksd[277]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Sep 22 04:06:19 raspberrypi mtp-probe: bus: 1, device: 3 was not an MTP device
+Sep 22 04:17:08 raspberrypi udisksd[287]: udisks daemon version 2.9.2 starting
+Sep 22 04:17:09 raspberrypi udisksd[287]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Sep 22 04:17:09 raspberrypi udisksd[287]: Failed to load the 'mdraid' libblockdev plugin
+Sep 22 04:17:10 raspberrypi udisksd[287]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Sep 22 04:17:10 raspberrypi mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Sep 22 04:17:10 raspberrypi mtp-probe: bus: 1, device: 3 was not an MTP device
+Sep 22 04:17:08 raspberrypi udisksd[294]: udisks daemon version 2.9.2 starting
+Sep 22 04:17:09 raspberrypi udisksd[294]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Sep 22 04:17:10 raspberrypi udisksd[294]: Failed to load the 'mdraid' libblockdev plugin
+Sep 22 04:17:10 raspberrypi mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Sep 22 04:17:10 raspberrypi mtp-probe: bus: 1, device: 3 was not an MTP device
+Sep 22 04:17:10 raspberrypi udisksd[294]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 10 15:35:12 raspberrypi udisksd[291]: udisks daemon version 2.9.2 starting
+Jan 10 15:35:13 raspberrypi udisksd[291]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 10 15:35:14 raspberrypi udisksd[291]: Failed to load the 'mdraid' libblockdev plugin
+Jan 10 15:35:14 raspberrypi udisksd[291]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 10 15:35:15 raspberrypi mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 10 15:35:15 raspberrypi mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 10 15:35:51 raspberrypi rfkill: unblock set for all
+Jan 10 17:17:07 raspberrypi udisksd[287]: udisks daemon version 2.9.2 starting
+Jan 10 17:17:08 raspberrypi udisksd[287]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 10 17:17:09 raspberrypi udisksd[287]: Failed to load the 'mdraid' libblockdev plugin
+Jan 10 17:17:09 raspberrypi mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 10 17:17:09 raspberrypi udisksd[287]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 10 17:17:10 raspberrypi mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 11 15:17:08 raspberrypi udisksd[287]: udisks daemon version 2.9.2 starting
+Jan 11 15:17:09 raspberrypi udisksd[287]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 11 15:17:10 raspberrypi udisksd[287]: Failed to load the 'mdraid' libblockdev plugin
+Jan 11 15:17:10 raspberrypi mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 11 15:17:10 raspberrypi mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 11 15:17:10 raspberrypi udisksd[287]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 11 15:38:23 raspberrypi udisksd[279]: udisks daemon version 2.9.2 starting
+Jan 11 15:38:24 raspberrypi udisksd[279]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 11 15:38:24 raspberrypi udisksd[279]: Failed to load the 'mdraid' libblockdev plugin
+Jan 11 15:38:25 raspberrypi udisksd[279]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 11 15:38:25 raspberrypi mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 11 15:38:25 raspberrypi mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 14 14:10:17 serveur udisksd[290]: udisks daemon version 2.9.2 starting
+Jan 14 14:10:18 serveur udisksd[290]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 14 14:10:19 serveur udisksd[290]: Failed to load the 'mdraid' libblockdev plugin
+Jan 14 14:10:19 serveur udisksd[290]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 14 14:10:19 serveur mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 14 14:10:20 serveur mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 14 15:18:08 serveur udisksd[276]: udisks daemon version 2.9.2 starting
+Jan 14 15:18:08 serveur udisksd[276]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 14 15:18:09 serveur udisksd[276]: Failed to load the 'mdraid' libblockdev plugin
+Jan 14 15:18:09 serveur udisksd[276]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 14 15:18:10 serveur mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 14 15:18:11 serveur mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 14 15:29:36 serveur udisksd[267]: udisks daemon version 2.9.2 starting
+Jan 14 15:29:37 serveur udisksd[267]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 14 15:29:37 serveur udisksd[267]: Failed to load the 'mdraid' libblockdev plugin
+Jan 14 15:29:38 serveur udisksd[267]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 14 15:29:38 serveur mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 14 15:29:38 serveur mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 14 15:46:10 serveur udisksd[276]: udisks daemon version 2.9.2 starting
+Jan 14 15:46:11 serveur mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 14 15:46:11 serveur udisksd[276]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 14 15:46:11 serveur mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 14 15:46:11 serveur udisksd[276]: Failed to load the 'mdraid' libblockdev plugin
+Jan 14 15:46:12 serveur udisksd[276]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 14 16:00:37 serveur udisksd[275]: udisks daemon version 2.9.2 starting
+Jan 14 16:00:38 serveur udisksd[275]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 14 16:00:38 serveur udisksd[275]: Failed to load the 'mdraid' libblockdev plugin
+Jan 14 16:00:39 serveur udisksd[275]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 14 16:00:40 serveur mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 14 16:00:40 serveur mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 14 16:00:38 serveur udisksd[298]: udisks daemon version 2.9.2 starting
+Jan 14 16:00:39 serveur udisksd[298]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 14 16:00:39 serveur mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 14 16:00:39 serveur mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 14 16:00:39 serveur udisksd[298]: Failed to load the 'mdraid' libblockdev plugin
+Jan 14 16:00:39 serveur udisksd[298]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 14 16:00:37 serveur udisksd[288]: udisks daemon version 2.9.2 starting
+Jan 14 16:00:38 serveur udisksd[288]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 14 16:00:39 serveur udisksd[288]: Failed to load the 'mdraid' libblockdev plugin
+Jan 14 16:00:39 serveur udisksd[288]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 14 16:00:39 serveur mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 14 16:00:40 serveur mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 14 17:17:08 serveur udisksd[291]: udisks daemon version 2.9.2 starting
+Jan 14 17:17:09 serveur udisksd[291]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 14 17:17:09 serveur udisksd[291]: Failed to load the 'mdraid' libblockdev plugin
+Jan 14 17:17:10 serveur udisksd[291]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 14 17:17:11 serveur mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 14 17:17:11 serveur mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 14 17:17:08 serveur udisksd[275]: udisks daemon version 2.9.2 starting
+Jan 14 17:17:10 serveur udisksd[275]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 14 17:17:10 serveur udisksd[275]: Failed to load the 'mdraid' libblockdev plugin
+Jan 14 17:17:11 serveur mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 14 17:17:11 serveur udisksd[275]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 14 17:17:11 serveur mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 14 17:17:08 serveur udisksd[292]: udisks daemon version 2.9.2 starting
+Jan 14 17:17:09 serveur udisksd[292]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 14 17:17:10 serveur udisksd[292]: Failed to load the 'mdraid' libblockdev plugin
+Jan 14 17:17:10 serveur mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 14 17:17:11 serveur udisksd[292]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 14 17:17:11 serveur mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 14 18:17:08 serveur udisksd[273]: udisks daemon version 2.9.2 starting
+Jan 14 18:17:09 serveur udisksd[273]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 14 18:17:09 serveur udisksd[273]: Failed to load the 'mdraid' libblockdev plugin
+Jan 14 18:17:10 serveur udisksd[273]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 14 18:17:10 serveur mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 14 18:17:10 serveur mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 14 18:17:08 serveur udisksd[291]: udisks daemon version 2.9.2 starting
+Jan 14 18:17:10 serveur udisksd[291]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 14 18:17:10 serveur mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 14 18:17:10 serveur udisksd[291]: Failed to load the 'mdraid' libblockdev plugin
+Jan 14 18:17:10 serveur mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 14 18:17:11 serveur udisksd[291]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 14 18:17:08 serveur udisksd[292]: udisks daemon version 2.9.2 starting
+Jan 14 18:17:09 serveur udisksd[292]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 14 18:17:10 serveur udisksd[292]: Failed to load the 'mdraid' libblockdev plugin
+Jan 14 18:17:10 serveur mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 14 18:17:10 serveur udisksd[292]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 14 18:17:10 serveur mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 14 20:17:08 serveur udisksd[299]: udisks daemon version 2.9.2 starting
+Jan 14 20:17:09 serveur udisksd[299]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 14 20:17:09 serveur mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 14 20:17:10 serveur mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 14 20:17:10 serveur udisksd[299]: Failed to load the 'mdraid' libblockdev plugin
+Jan 14 20:17:11 serveur udisksd[299]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 14 20:17:08 serveur udisksd[300]: udisks daemon version 2.9.2 starting
+Jan 14 20:17:10 serveur udisksd[300]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 14 20:17:10 serveur mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 14 20:17:10 serveur udisksd[300]: Failed to load the 'mdraid' libblockdev plugin
+Jan 14 20:17:10 serveur mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 14 20:17:11 serveur udisksd[300]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jan 14 20:17:08 serveur udisksd[286]: udisks daemon version 2.9.2 starting
+Jan 14 20:17:10 serveur udisksd[286]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 14 20:17:10 serveur mtp-probe: checking bus 1, device 3: "/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1"
+Jan 14 20:17:10 serveur udisksd[286]: Failed to load the 'mdraid' libblockdev plugin
+Jan 14 20:17:10 serveur mtp-probe: bus: 1, device: 3 was not an MTP device
+Jan 14 20:17:11 serveur udisksd[286]: Acquired the name org.freedesktop.UDisks2 on the system message bus

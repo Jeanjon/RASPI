@@ -1,0 +1,345 @@
+Sep 22 04:06:15 raspberrypi kernel: [    0.000000] pcpu-alloc: s77272 r8192 d29224 u114688 alloc=28*4096
+Sep 22 04:06:15 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Sep 22 04:06:15 raspberrypi kernel: [    2.878305] dwc_otg: Microframe scheduler enabled
+Sep 22 04:06:15 raspberrypi kernel: [    2.922836] dwc_otg: FIQ enabled
+Sep 22 04:06:15 raspberrypi kernel: [    2.922855] dwc_otg: NAK holdoff enabled
+Sep 22 04:06:16 raspberrypi kernel: [    2.922870] dwc_otg: FIQ split-transaction FSM enabled
+Sep 22 04:06:16 raspberrypi kernel: [    2.922891] Module dwc_common_port init
+Sep 22 04:06:16 raspberrypi kernel: [    6.487459]   with arguments:
+Sep 22 04:06:16 raspberrypi kernel: [    6.487474]     /sbin/init
+Sep 22 04:06:16 raspberrypi kernel: [    6.487488]   with environment:
+Sep 22 04:06:16 raspberrypi kernel: [    6.487501]     HOME=/
+Sep 22 04:06:16 raspberrypi kernel: [    6.487514]     TERM=linux
+Sep 22 04:06:16 raspberrypi thd[272]: Found socket passed from systemd
+Sep 22 04:06:18 raspberrypi kernel: [   19.176244] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Sep 22 04:06:21 raspberrypi kernel: [   21.791419] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Sep 22 04:17:07 raspberrypi thd[284]: Found socket passed from systemd
+Sep 22 04:17:07 raspberrypi kernel: [    0.000000] pcpu-alloc: s77272 r8192 d29224 u114688 alloc=28*4096
+Sep 22 04:17:07 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Sep 22 04:17:07 raspberrypi kernel: [    2.875126] dwc_otg: Microframe scheduler enabled
+Sep 22 04:17:07 raspberrypi kernel: [    2.919692] dwc_otg: FIQ enabled
+Sep 22 04:17:07 raspberrypi kernel: [    2.919711] dwc_otg: NAK holdoff enabled
+Sep 22 04:17:07 raspberrypi kernel: [    2.919725] dwc_otg: FIQ split-transaction FSM enabled
+Sep 22 04:17:07 raspberrypi kernel: [    2.919747] Module dwc_common_port init
+Sep 22 04:17:07 raspberrypi kernel: [    6.483848]   with arguments:
+Sep 22 04:17:07 raspberrypi kernel: [    6.483864]     /sbin/init
+Sep 22 04:17:07 raspberrypi kernel: [    6.483879]   with environment:
+Sep 22 04:17:07 raspberrypi kernel: [    6.483891]     HOME=/
+Sep 22 04:17:07 raspberrypi kernel: [    6.483905]     TERM=linux
+Sep 22 04:17:11 raspberrypi kernel: [   21.102621] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Sep 22 04:17:12 raspberrypi kernel: [   21.964471] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Sep 22 04:17:07 raspberrypi kernel: [    0.000000] pcpu-alloc: s77272 r8192 d29224 u114688 alloc=28*4096
+Sep 22 04:17:07 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Sep 22 04:17:07 raspberrypi kernel: [    2.878879] dwc_otg: Microframe scheduler enabled
+Sep 22 04:17:07 raspberrypi kernel: [    2.923433] dwc_otg: FIQ enabled
+Sep 22 04:17:07 raspberrypi kernel: [    2.923452] dwc_otg: NAK holdoff enabled
+Sep 22 04:17:07 raspberrypi kernel: [    2.923466] dwc_otg: FIQ split-transaction FSM enabled
+Sep 22 04:17:07 raspberrypi kernel: [    2.923488] Module dwc_common_port init
+Sep 22 04:17:07 raspberrypi kernel: [    6.479824]   with arguments:
+Sep 22 04:17:07 raspberrypi kernel: [    6.479838]     /sbin/init
+Sep 22 04:17:07 raspberrypi kernel: [    6.479853]   with environment:
+Sep 22 04:17:07 raspberrypi kernel: [    6.479865]     HOME=/
+Sep 22 04:17:07 raspberrypi kernel: [    6.479879]     TERM=linux
+Sep 22 04:17:07 raspberrypi thd[292]: Found socket passed from systemd
+Sep 22 04:17:11 raspberrypi kernel: [   21.053375] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Sep 22 04:17:12 raspberrypi kernel: [   21.887491] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 10 15:35:11 raspberrypi kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 10 15:35:11 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 10 15:35:11 raspberrypi kernel: [    2.883542] dwc_otg: Microframe scheduler enabled
+Jan 10 15:35:11 raspberrypi kernel: [    2.928185] dwc_otg: FIQ enabled
+Jan 10 15:35:11 raspberrypi kernel: [    2.928204] dwc_otg: NAK holdoff enabled
+Jan 10 15:35:11 raspberrypi kernel: [    2.928219] dwc_otg: FIQ split-transaction FSM enabled
+Jan 10 15:35:11 raspberrypi kernel: [    2.928242] Module dwc_common_port init
+Jan 10 15:35:11 raspberrypi kernel: [    6.514226]   with arguments:
+Jan 10 15:35:11 raspberrypi kernel: [    6.514241]     /sbin/init
+Jan 10 15:35:11 raspberrypi kernel: [    6.514256]   with environment:
+Jan 10 15:35:11 raspberrypi kernel: [    6.514269]     HOME=/
+Jan 10 15:35:11 raspberrypi kernel: [    6.514283]     TERM=linux
+Jan 10 15:35:11 raspberrypi thd[283]: Found socket passed from systemd
+Jan 10 15:35:16 raspberrypi kernel: [   21.030790] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 10 15:35:17 raspberrypi kernel: [   21.996664] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 10 17:17:06 raspberrypi kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 10 17:17:06 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 10 17:17:06 raspberrypi thd[281]: Found socket passed from systemd
+Jan 10 17:17:06 raspberrypi kernel: [    2.881489] dwc_otg: Microframe scheduler enabled
+Jan 10 17:17:06 raspberrypi kernel: [    2.926043] dwc_otg: FIQ enabled
+Jan 10 17:17:06 raspberrypi kernel: [    2.926062] dwc_otg: NAK holdoff enabled
+Jan 10 17:17:06 raspberrypi kernel: [    2.926077] dwc_otg: FIQ split-transaction FSM enabled
+Jan 10 17:17:06 raspberrypi kernel: [    2.926099] Module dwc_common_port init
+Jan 10 17:17:06 raspberrypi kernel: [    6.645280]   with arguments:
+Jan 10 17:17:06 raspberrypi kernel: [    6.645295]     /sbin/init
+Jan 10 17:17:06 raspberrypi kernel: [    6.645310]   with environment:
+Jan 10 17:17:06 raspberrypi kernel: [    6.645323]     HOME=/
+Jan 10 17:17:06 raspberrypi kernel: [    6.645337]     TERM=linux
+Jan 10 17:17:09 raspberrypi kernel: [   19.761286] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 10 17:17:11 raspberrypi kernel: [   21.286644] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 11 15:17:07 raspberrypi kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 11 15:17:07 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 11 15:17:07 raspberrypi kernel: [    2.881961] dwc_otg: Microframe scheduler enabled
+Jan 11 15:17:07 raspberrypi kernel: [    2.926524] dwc_otg: FIQ enabled
+Jan 11 15:17:07 raspberrypi kernel: [    2.926543] dwc_otg: NAK holdoff enabled
+Jan 11 15:17:07 raspberrypi kernel: [    2.926558] dwc_otg: FIQ split-transaction FSM enabled
+Jan 11 15:17:07 raspberrypi kernel: [    2.926580] Module dwc_common_port init
+Jan 11 15:17:07 raspberrypi kernel: [    6.493429]   with arguments:
+Jan 11 15:17:07 raspberrypi kernel: [    6.493467]     /sbin/init
+Jan 11 15:17:07 raspberrypi kernel: [    6.493484]   with environment:
+Jan 11 15:17:07 raspberrypi kernel: [    6.493497]     HOME=/
+Jan 11 15:17:07 raspberrypi kernel: [    6.493511]     TERM=linux
+Jan 11 15:17:07 raspberrypi thd[285]: Found socket passed from systemd
+Jan 11 15:17:11 raspberrypi kernel: [   21.082138] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 11 15:17:12 raspberrypi kernel: [   21.724931] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 11 15:38:22 raspberrypi kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 11 15:38:22 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 11 15:38:22 raspberrypi kernel: [    2.880799] dwc_otg: Microframe scheduler enabled
+Jan 11 15:38:22 raspberrypi kernel: [    2.925327] dwc_otg: FIQ enabled
+Jan 11 15:38:22 raspberrypi kernel: [    2.925347] dwc_otg: NAK holdoff enabled
+Jan 11 15:38:22 raspberrypi kernel: [    2.925362] dwc_otg: FIQ split-transaction FSM enabled
+Jan 11 15:38:22 raspberrypi kernel: [    2.925384] Module dwc_common_port init
+Jan 11 15:38:22 raspberrypi thd[275]: Found socket passed from systemd
+Jan 11 15:38:22 raspberrypi kernel: [    6.461299]   with arguments:
+Jan 11 15:38:22 raspberrypi kernel: [    6.461313]     /sbin/init
+Jan 11 15:38:22 raspberrypi kernel: [    6.461328]   with environment:
+Jan 11 15:38:22 raspberrypi kernel: [    6.461341]     HOME=/
+Jan 11 15:38:22 raspberrypi kernel: [    6.461355]     TERM=linux
+Jan 11 15:38:26 raspberrypi kernel: [   20.817877] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 11 15:38:27 raspberrypi kernel: [   22.220917] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 14 14:10:17 serveur kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 14 14:10:17 serveur kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 14 14:10:17 serveur thd[288]: Found socket passed from systemd
+Jan 14 14:10:17 serveur kernel: [    2.881790] dwc_otg: Microframe scheduler enabled
+Jan 14 14:10:17 serveur kernel: [    2.926393] dwc_otg: FIQ enabled
+Jan 14 14:10:17 serveur kernel: [    2.926412] dwc_otg: NAK holdoff enabled
+Jan 14 14:10:17 serveur kernel: [    2.926427] dwc_otg: FIQ split-transaction FSM enabled
+Jan 14 14:10:17 serveur kernel: [    2.926449] Module dwc_common_port init
+Jan 14 14:10:17 serveur kernel: [    6.629291]   with arguments:
+Jan 14 14:10:17 serveur kernel: [    6.629305]     /sbin/init
+Jan 14 14:10:17 serveur kernel: [    6.629320]   with environment:
+Jan 14 14:10:17 serveur kernel: [    6.629333]     HOME=/
+Jan 14 14:10:17 serveur kernel: [    6.629347]     TERM=linux
+Jan 14 14:10:19 serveur kernel: [   19.775218] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 14 14:10:21 serveur kernel: [   21.357008] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 14 15:18:07 serveur kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 14 15:18:07 serveur kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 14 15:18:07 serveur thd[272]: Found socket passed from systemd
+Jan 14 15:18:07 serveur kernel: [    2.881338] dwc_otg: Microframe scheduler enabled
+Jan 14 15:18:07 serveur kernel: [    2.925995] dwc_otg: FIQ enabled
+Jan 14 15:18:07 serveur kernel: [    2.926014] dwc_otg: NAK holdoff enabled
+Jan 14 15:18:07 serveur kernel: [    2.926029] dwc_otg: FIQ split-transaction FSM enabled
+Jan 14 15:18:07 serveur kernel: [    2.926052] Module dwc_common_port init
+Jan 14 15:18:07 serveur kernel: [    6.473283]   with arguments:
+Jan 14 15:18:07 serveur kernel: [    6.473298]     /sbin/init
+Jan 14 15:18:07 serveur kernel: [    6.473313]   with environment:
+Jan 14 15:18:07 serveur kernel: [    6.473326]     HOME=/
+Jan 14 15:18:07 serveur kernel: [    6.473340]     TERM=linux
+Jan 14 15:18:11 serveur kernel: [   21.598138] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 14 15:18:11 serveur kernel: [   21.862297] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 14 15:29:35 serveur kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 14 15:29:35 serveur kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 14 15:29:35 serveur thd[264]: Found socket passed from systemd
+Jan 14 15:29:35 serveur kernel: [    2.880912] dwc_otg: Microframe scheduler enabled
+Jan 14 15:29:35 serveur kernel: [    2.925655] dwc_otg: FIQ enabled
+Jan 14 15:29:35 serveur kernel: [    2.925674] dwc_otg: NAK holdoff enabled
+Jan 14 15:29:35 serveur kernel: [    2.925689] dwc_otg: FIQ split-transaction FSM enabled
+Jan 14 15:29:35 serveur kernel: [    2.925712] Module dwc_common_port init
+Jan 14 15:29:35 serveur kernel: [    6.557295]   with arguments:
+Jan 14 15:29:35 serveur kernel: [    6.557310]     /sbin/init
+Jan 14 15:29:35 serveur kernel: [    6.557324]   with environment:
+Jan 14 15:29:35 serveur kernel: [    6.557337]     HOME=/
+Jan 14 15:29:35 serveur kernel: [    6.557351]     TERM=linux
+Jan 14 15:29:39 serveur kernel: [   21.389968] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 14 15:29:39 serveur kernel: [   21.619634] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 14 15:46:08 serveur thd[273]: Found socket passed from systemd
+Jan 14 15:46:08 serveur kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 14 15:46:08 serveur kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 14 15:46:08 serveur kernel: [    2.885845] dwc_otg: Microframe scheduler enabled
+Jan 14 15:46:08 serveur kernel: [    2.930408] dwc_otg: FIQ enabled
+Jan 14 15:46:08 serveur kernel: [    2.930428] dwc_otg: NAK holdoff enabled
+Jan 14 15:46:08 serveur kernel: [    2.930443] dwc_otg: FIQ split-transaction FSM enabled
+Jan 14 15:46:08 serveur kernel: [    2.930464] Module dwc_common_port init
+Jan 14 15:46:08 serveur kernel: [    6.513752]   with arguments:
+Jan 14 15:46:08 serveur kernel: [    6.513767]     /sbin/init
+Jan 14 15:46:08 serveur kernel: [    6.513782]   with environment:
+Jan 14 15:46:08 serveur kernel: [    6.513795]     HOME=/
+Jan 14 15:46:08 serveur kernel: [    6.513809]     TERM=linux
+Jan 14 15:46:11 serveur kernel: [   20.868306] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 14 15:46:13 serveur kernel: [   22.533852] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 14 16:00:36 serveur kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 14 16:00:36 serveur kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 14 16:00:36 serveur thd[274]: Found socket passed from systemd
+Jan 14 16:00:36 serveur kernel: [    2.885735] dwc_otg: Microframe scheduler enabled
+Jan 14 16:00:36 serveur kernel: [    2.930370] dwc_otg: FIQ enabled
+Jan 14 16:00:36 serveur kernel: [    2.930389] dwc_otg: NAK holdoff enabled
+Jan 14 16:00:36 serveur kernel: [    2.930404] dwc_otg: FIQ split-transaction FSM enabled
+Jan 14 16:00:36 serveur kernel: [    2.930426] Module dwc_common_port init
+Jan 14 16:00:36 serveur kernel: [    6.513796]   with arguments:
+Jan 14 16:00:36 serveur kernel: [    6.513811]     /sbin/init
+Jan 14 16:00:36 serveur kernel: [    6.513826]   with environment:
+Jan 14 16:00:36 serveur kernel: [    6.513839]     HOME=/
+Jan 14 16:00:36 serveur kernel: [    6.513853]     TERM=linux
+Jan 14 16:00:40 serveur kernel: [   21.437841] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 14 16:00:41 serveur kernel: [   22.052614] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 14 16:00:37 serveur kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 14 16:00:37 serveur kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 14 16:00:37 serveur kernel: [    2.885607] dwc_otg: Microframe scheduler enabled
+Jan 14 16:00:37 serveur kernel: [    2.930207] dwc_otg: FIQ enabled
+Jan 14 16:00:37 serveur kernel: [    2.930227] dwc_otg: NAK holdoff enabled
+Jan 14 16:00:37 serveur kernel: [    2.930241] dwc_otg: FIQ split-transaction FSM enabled
+Jan 14 16:00:37 serveur kernel: [    2.930264] Module dwc_common_port init
+Jan 14 16:00:37 serveur kernel: [    6.505691]   with arguments:
+Jan 14 16:00:37 serveur kernel: [    6.505706]     /sbin/init
+Jan 14 16:00:37 serveur kernel: [    6.505721]   with environment:
+Jan 14 16:00:37 serveur kernel: [    6.505734]     HOME=/
+Jan 14 16:00:37 serveur kernel: [    6.505748]     TERM=linux
+Jan 14 16:00:37 serveur thd[296]: Found socket passed from systemd
+Jan 14 16:00:40 serveur kernel: [   20.985310] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 14 16:00:41 serveur kernel: [   21.832667] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 14 16:00:37 serveur kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 14 16:00:37 serveur kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 14 16:00:37 serveur thd[286]: Found socket passed from systemd
+Jan 14 16:00:37 serveur kernel: [    2.886300] dwc_otg: Microframe scheduler enabled
+Jan 14 16:00:37 serveur kernel: [    2.930951] dwc_otg: FIQ enabled
+Jan 14 16:00:37 serveur kernel: [    2.930971] dwc_otg: NAK holdoff enabled
+Jan 14 16:00:37 serveur kernel: [    2.930986] dwc_otg: FIQ split-transaction FSM enabled
+Jan 14 16:00:37 serveur kernel: [    2.931008] Module dwc_common_port init
+Jan 14 16:00:37 serveur kernel: [    6.646014]   with arguments:
+Jan 14 16:00:37 serveur kernel: [    6.646028]     /sbin/init
+Jan 14 16:00:37 serveur kernel: [    6.646043]   with environment:
+Jan 14 16:00:37 serveur kernel: [    6.646056]     HOME=/
+Jan 14 16:00:37 serveur kernel: [    6.646070]     TERM=linux
+Jan 14 16:00:40 serveur kernel: [   21.123265] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 14 16:00:41 serveur kernel: [   22.691655] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 14 17:17:07 serveur kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 14 17:17:07 serveur kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 14 17:17:07 serveur kernel: [    2.885751] dwc_otg: Microframe scheduler enabled
+Jan 14 17:17:07 serveur kernel: [    2.930430] dwc_otg: FIQ enabled
+Jan 14 17:17:07 serveur kernel: [    2.930449] dwc_otg: NAK holdoff enabled
+Jan 14 17:17:07 serveur kernel: [    2.930464] dwc_otg: FIQ split-transaction FSM enabled
+Jan 14 17:17:07 serveur kernel: [    2.930486] Module dwc_common_port init
+Jan 14 17:17:07 serveur kernel: [    6.509719]   with arguments:
+Jan 14 17:17:07 serveur kernel: [    6.509734]     /sbin/init
+Jan 14 17:17:07 serveur kernel: [    6.509749]   with environment:
+Jan 14 17:17:07 serveur kernel: [    6.509762]     HOME=/
+Jan 14 17:17:07 serveur kernel: [    6.509776]     TERM=linux
+Jan 14 17:17:07 serveur thd[285]: Found socket passed from systemd
+Jan 14 17:17:12 serveur kernel: [   21.632645] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 14 17:17:12 serveur kernel: [   22.256770] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 14 17:17:08 serveur kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 14 17:17:08 serveur kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 14 17:17:08 serveur thd[274]: Found socket passed from systemd
+Jan 14 17:17:08 serveur kernel: [    2.886649] dwc_otg: Microframe scheduler enabled
+Jan 14 17:17:08 serveur kernel: [    2.931289] dwc_otg: FIQ enabled
+Jan 14 17:17:08 serveur kernel: [    2.931308] dwc_otg: NAK holdoff enabled
+Jan 14 17:17:08 serveur kernel: [    2.931322] dwc_otg: FIQ split-transaction FSM enabled
+Jan 14 17:17:08 serveur kernel: [    2.931344] Module dwc_common_port init
+Jan 14 17:17:08 serveur kernel: [    6.513957]   with arguments:
+Jan 14 17:17:08 serveur kernel: [    6.513972]     /sbin/init
+Jan 14 17:17:08 serveur kernel: [    6.513987]   with environment:
+Jan 14 17:17:08 serveur kernel: [    6.514000]     HOME=/
+Jan 14 17:17:08 serveur kernel: [    6.514014]     TERM=linux
+Jan 14 17:17:12 serveur kernel: [   21.910916] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 14 17:17:12 serveur kernel: [   21.982839] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 14 17:17:08 serveur kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 14 17:17:08 serveur kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 14 17:17:08 serveur kernel: [    2.881105] dwc_otg: Microframe scheduler enabled
+Jan 14 17:17:08 serveur kernel: [    2.925790] dwc_otg: FIQ enabled
+Jan 14 17:17:08 serveur kernel: [    2.925809] dwc_otg: NAK holdoff enabled
+Jan 14 17:17:08 serveur kernel: [    2.925824] dwc_otg: FIQ split-transaction FSM enabled
+Jan 14 17:17:08 serveur kernel: [    2.925846] Module dwc_common_port init
+Jan 14 17:17:08 serveur thd[285]: Found socket passed from systemd
+Jan 14 17:17:08 serveur kernel: [    6.493700]   with arguments:
+Jan 14 17:17:08 serveur kernel: [    6.493715]     /sbin/init
+Jan 14 17:17:08 serveur kernel: [    6.493729]   with environment:
+Jan 14 17:17:08 serveur kernel: [    6.493742]     HOME=/
+Jan 14 17:17:08 serveur kernel: [    6.493756]     TERM=linux
+Jan 14 17:17:10 serveur kernel: [   20.622540] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 14 17:17:11 serveur kernel: [   21.220775] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 14 18:17:07 serveur kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 14 18:17:07 serveur kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 14 18:17:07 serveur kernel: [    2.886461] dwc_otg: Microframe scheduler enabled
+Jan 14 18:17:07 serveur kernel: [    2.931056] dwc_otg: FIQ enabled
+Jan 14 18:17:07 serveur kernel: [    2.931076] dwc_otg: NAK holdoff enabled
+Jan 14 18:17:07 serveur kernel: [    2.931091] dwc_otg: FIQ split-transaction FSM enabled
+Jan 14 18:17:07 serveur kernel: [    2.931113] Module dwc_common_port init
+Jan 14 18:17:07 serveur thd[272]: Found socket passed from systemd
+Jan 14 18:17:07 serveur kernel: [    6.505873]   with arguments:
+Jan 14 18:17:07 serveur kernel: [    6.505887]     /sbin/init
+Jan 14 18:17:07 serveur kernel: [    6.505902]   with environment:
+Jan 14 18:17:07 serveur kernel: [    6.505915]     HOME=/
+Jan 14 18:17:07 serveur kernel: [    6.505929]     TERM=linux
+Jan 14 18:17:11 serveur kernel: [   20.910853] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 14 18:17:11 serveur kernel: [   21.012297] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 14 18:17:07 serveur kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 14 18:17:07 serveur kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 14 18:17:07 serveur kernel: [    2.885953] dwc_otg: Microframe scheduler enabled
+Jan 14 18:17:07 serveur kernel: [    2.930593] dwc_otg: FIQ enabled
+Jan 14 18:17:07 serveur kernel: [    2.930612] dwc_otg: NAK holdoff enabled
+Jan 14 18:17:07 serveur kernel: [    2.930627] dwc_otg: FIQ split-transaction FSM enabled
+Jan 14 18:17:07 serveur kernel: [    2.930648] Module dwc_common_port init
+Jan 14 18:17:07 serveur thd[290]: Found socket passed from systemd
+Jan 14 18:17:08 serveur kernel: [    6.513746]   with arguments:
+Jan 14 18:17:08 serveur kernel: [    6.513760]     /sbin/init
+Jan 14 18:17:08 serveur kernel: [    6.513775]   with environment:
+Jan 14 18:17:08 serveur kernel: [    6.513789]     HOME=/
+Jan 14 18:17:08 serveur kernel: [    6.513803]     TERM=linux
+Jan 14 18:17:11 serveur kernel: [   20.890142] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 14 18:17:11 serveur kernel: [   21.130907] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 14 18:17:07 serveur kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 14 18:17:07 serveur kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 14 18:17:07 serveur thd[288]: Found socket passed from systemd
+Jan 14 18:17:07 serveur kernel: [    2.885791] dwc_otg: Microframe scheduler enabled
+Jan 14 18:17:07 serveur kernel: [    2.930451] dwc_otg: FIQ enabled
+Jan 14 18:17:07 serveur kernel: [    2.930469] dwc_otg: NAK holdoff enabled
+Jan 14 18:17:07 serveur kernel: [    2.930484] dwc_otg: FIQ split-transaction FSM enabled
+Jan 14 18:17:07 serveur kernel: [    2.930506] Module dwc_common_port init
+Jan 14 18:17:07 serveur kernel: [    6.513738]   with arguments:
+Jan 14 18:17:07 serveur kernel: [    6.513752]     /sbin/init
+Jan 14 18:17:07 serveur kernel: [    6.513767]   with environment:
+Jan 14 18:17:08 serveur kernel: [    6.513780]     HOME=/
+Jan 14 18:17:08 serveur kernel: [    6.513794]     TERM=linux
+Jan 14 18:17:11 serveur kernel: [   21.249137] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 14 18:17:12 serveur kernel: [   22.088712] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 14 20:17:08 serveur thd[297]: Found socket passed from systemd
+Jan 14 20:17:08 serveur kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 14 20:17:08 serveur kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 14 20:17:08 serveur kernel: [    2.885667] dwc_otg: Microframe scheduler enabled
+Jan 14 20:17:08 serveur kernel: [    2.930208] dwc_otg: FIQ enabled
+Jan 14 20:17:08 serveur kernel: [    2.930227] dwc_otg: NAK holdoff enabled
+Jan 14 20:17:08 serveur kernel: [    2.930241] dwc_otg: FIQ split-transaction FSM enabled
+Jan 14 20:17:08 serveur kernel: [    2.930263] Module dwc_common_port init
+Jan 14 20:17:08 serveur kernel: [    6.525971]   with arguments:
+Jan 14 20:17:08 serveur kernel: [    6.525986]     /sbin/init
+Jan 14 20:17:08 serveur kernel: [    6.526001]   with environment:
+Jan 14 20:17:08 serveur kernel: [    6.526014]     HOME=/
+Jan 14 20:17:08 serveur kernel: [    6.526028]     TERM=linux
+Jan 14 20:17:10 serveur kernel: [   20.591704] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 14 20:17:11 serveur kernel: [   21.608714] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 14 20:17:08 serveur kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 14 20:17:08 serveur kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 14 20:17:08 serveur kernel: [    2.885957] dwc_otg: Microframe scheduler enabled
+Jan 14 20:17:08 serveur kernel: [    2.930551] dwc_otg: FIQ enabled
+Jan 14 20:17:08 serveur kernel: [    2.930570] dwc_otg: NAK holdoff enabled
+Jan 14 20:17:08 serveur kernel: [    2.930585] dwc_otg: FIQ split-transaction FSM enabled
+Jan 14 20:17:08 serveur kernel: [    2.930606] Module dwc_common_port init
+Jan 14 20:17:08 serveur kernel: [    6.505738]   with arguments:
+Jan 14 20:17:08 serveur kernel: [    6.505753]     /sbin/init
+Jan 14 20:17:08 serveur kernel: [    6.505767]   with environment:
+Jan 14 20:17:08 serveur kernel: [    6.505781]     HOME=/
+Jan 14 20:17:08 serveur kernel: [    6.505795]     TERM=linux
+Jan 14 20:17:08 serveur thd[296]: Found socket passed from systemd
+Jan 14 20:17:11 serveur kernel: [   21.539942] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)
+Jan 14 20:17:12 serveur kernel: [   21.976192] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 14 20:17:07 serveur kernel: [    0.000000] pcpu-alloc: s77336 r8192 d29160 u114688 alloc=28*4096
+Jan 14 20:17:07 serveur kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Jan 14 20:17:07 serveur kernel: [    2.885849] dwc_otg: Microframe scheduler enabled
+Jan 14 20:17:07 serveur kernel: [    2.930442] dwc_otg: FIQ enabled
+Jan 14 20:17:07 serveur kernel: [    2.930461] dwc_otg: NAK holdoff enabled
+Jan 14 20:17:07 serveur kernel: [    2.930475] dwc_otg: FIQ split-transaction FSM enabled
+Jan 14 20:17:07 serveur kernel: [    2.930497] Module dwc_common_port init
+Jan 14 20:17:07 serveur thd[284]: Found socket passed from systemd
+Jan 14 20:17:07 serveur kernel: [    6.514110]   with arguments:
+Jan 14 20:17:07 serveur kernel: [    6.514124]     /sbin/init
+Jan 14 20:17:07 serveur kernel: [    6.514139]   with environment:
+Jan 14 20:17:07 serveur kernel: [    6.514152]     HOME=/
+Jan 14 20:17:07 serveur kernel: [    6.514166]     TERM=linux
+Jan 14 20:17:11 serveur kernel: [   21.218044] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Jan 14 20:17:11 serveur kernel: [   21.622160] checking generic (3eaa9000 151800) vs hw (0 ffffffffffffffff)

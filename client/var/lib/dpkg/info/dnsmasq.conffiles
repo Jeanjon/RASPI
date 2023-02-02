@@ -1,0 +1,9 @@
+/etc/init.d/dnsmasq
+/etc/default/dnsmasq
+/etc/dnsmasq.conf
+/etc/resolvconf/update.d/dnsmasq
+/etc/insserv.conf.d/dnsmasq
+/etc/sv/dnsmasq/log/run
+/etc/sv/dnsmasq/finish
+/etc/sv/dnsmasq/run
+/etc/sv/dnsmasq/.meta/installed

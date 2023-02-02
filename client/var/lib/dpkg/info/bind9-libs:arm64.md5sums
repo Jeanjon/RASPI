@@ -1,0 +1,11 @@
+b399c5126ac0f61b0b48264bc9e00f0e  usr/lib/aarch64-linux-gnu/libbind9-9.16.33-Debian.so
+f69f61ccb4f3d7d68184c17866e600e2  usr/lib/aarch64-linux-gnu/libdns-9.16.33-Debian.so
+9bbc47562e3986a8149fe4a70807cc56  usr/lib/aarch64-linux-gnu/libirs-9.16.33-Debian.so
+ac178efcb43aa9aa9a41b886182a823f  usr/lib/aarch64-linux-gnu/libisc-9.16.33-Debian.so
+cc1eb25683001b9b6fca3a9fd0c32300  usr/lib/aarch64-linux-gnu/libisccc-9.16.33-Debian.so
+31a7c55fc36fde4dc213166898510d6b  usr/lib/aarch64-linux-gnu/libisccfg-9.16.33-Debian.so
+51fc07741aa219cfc1ceb427942775d1  usr/lib/aarch64-linux-gnu/libns-9.16.33-Debian.so
+102b3f5e2b079d8ee411b30b17e8c322  usr/share/doc/bind9-libs/changelog.Debian.gz
+3bd7020919a7bc456b0c55cd7b5f7a32  usr/share/doc/bind9-libs/changelog.gz
+87d36bb6374958d7dfd3db0dcc7a6253  usr/share/doc/bind9-libs/copyright
+5a8db1f2385c80b7537a5614f81d6e26  usr/share/lintian/overrides/bind9-libs

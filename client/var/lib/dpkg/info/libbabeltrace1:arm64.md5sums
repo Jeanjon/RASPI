@@ -1,0 +1,10 @@
+73331b638350695273e13e021d8e11c6  usr/lib/aarch64-linux-gnu/libbabeltrace-ctf-metadata.so.1.0.0
+b726080b8712862930349d0806c83f30  usr/lib/aarch64-linux-gnu/libbabeltrace-ctf-text.so.1.0.0
+35c1b0158ed90ad949b801dbc053a64d  usr/lib/aarch64-linux-gnu/libbabeltrace-ctf.so.1.0.0
+652f2b1c2448eb87c8a3db8ab6db4110  usr/lib/aarch64-linux-gnu/libbabeltrace-dummy.so.1.0.0
+925c6e85e60d4b9a0fe2512d4bb48934  usr/lib/aarch64-linux-gnu/libbabeltrace-lttng-live.so.1.0.0
+2319f04470fb0f03dd77eeba132b508c  usr/lib/aarch64-linux-gnu/libbabeltrace.so.1.0.0
+35d45ac9c12b27bf617a2e45ad34c992  usr/share/doc/libbabeltrace1/changelog.Debian.arm64.gz
+bea88f3d7f47476dc9c58f38f3a4bd8d  usr/share/doc/libbabeltrace1/changelog.Debian.gz
+cdd7d0faf47c3bea922b5a2319408ef4  usr/share/doc/libbabeltrace1/changelog.gz
+41f68ef3fb7b1deb480bd22112eaf0c3  usr/share/doc/libbabeltrace1/copyright

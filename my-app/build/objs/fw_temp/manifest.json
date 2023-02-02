@@ -1,0 +1,53 @@
+{
+  "build_id": "20230125-084824/2.13.0-ge44f822-master-dirty",
+  "build_timestamp": "2023-01-25T08:48:24Z",
+  "name": "my-app",
+  "parts": {
+    "boot": {
+      "addr": 0,
+      "cs_sha1": "1316f05d7a849fa9aebd9e65acaa11b9f892200b",
+      "cs_sha256": "8c303cd9b215708249109004b1cc9469583ef44eadf1f8d83fbe6a47229c7996",
+      "size": 2320,
+      "src": "rboot.bin",
+      "update": false
+    },
+    "boot_cfg": {
+      "addr": 28672,
+      "fill": 255,
+      "size": 4096
+    },
+    "fs": {
+      "addr": 32768,
+      "addr1": 3145728,
+      "cs_sha1": "f9a4607056dfde4ff58d195c59e0c3a30f863f42",
+      "cs_sha256": "ddfee70c7a3c62b1da40b2afecb5eec5bee0c43fb1075406c07f7e2707533cb5",
+      "fs_size": 262144,
+      "size": 262144,
+      "src": "fs.bin",
+      "type": "fs"
+    },
+    "fw": {
+      "addr": 1048576,
+      "addr1": 2097152,
+      "cs_sha1": "e2fdfd398461ee752f6b4f23328fcd188f0cf7a6",
+      "cs_sha256": "aba6b827866b077288b7828564d63c98fc928b89e68035a7255e8265e11ac0a6",
+      "size": 615232,
+      "src": "my-app.bin"
+    },
+    "rf_cal_data": {
+      "addr": 4173824,
+      "fill": 255,
+      "size": 4096
+    },
+    "sys_params": {
+      "addr": 4177920,
+      "cs_sha1": "ff105e66b313201f5b40a2e02b7f00db24022088",
+      "cs_sha256": "b2218087cf938ce665b26ac049f7d146677c70fe2909205a4d0e6a58aef0e4b3",
+      "size": 128,
+      "src": "esp_init_data_default_v08.bin",
+      "type": "sys_params3"
+    }
+  },
+  "platform": "esp8266",
+  "version": "2.19.1"
+}
